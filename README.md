@@ -3,5 +3,6 @@ Given a string, ValidPalindrome determines if it is a palindrome, considering on
 
 Note: For the purpose of this problem, we define empty string as valid palindrome.
 
-##Reference
+## Reference
+
 [leetCode](https://leetcode.com/problems/valid-palindrome)
